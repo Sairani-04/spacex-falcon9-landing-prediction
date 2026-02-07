@@ -1,17 +1,34 @@
 SpaceX Falcon 9 First Stage Landing Prediction
 
-This project predicts whether the Falcon 9 first-stage booster will successfully land after launch. Since successful landings significantly reduce launch costs, this analysis helps understand the key factors behind mission success.
+Predicting Falcon 9 first-stage booster landings using real SpaceX launch data.
 
-As part of the IBM Data Science Professional Certificate (Coursera), I worked on the complete data science pipeline:
+Successful landings dramatically reduce launch costs.
+This project analyzes historical launch data to identify the factors that influence landing success and builds machine learning models to predict outcomes.
 
-Collected launch data using the SpaceX API and Wikipedia web scraping
+Project Highlights
 
-Cleaned and prepared the data for analysis
+End-to-end data science workflow
+
+Real-world aerospace dataset
+
+Predictive modeling with interpretable insights
+
+What I Did
+
+Collected launch data via SpaceX API and Wikipedia web scraping
+
+Cleaned and prepared the dataset for analysis
 
 Performed EDA using SQL and visualizations
 
 Built interactive maps and dashboards
 
-Trained machine learning models to predict landing success
+Trained ML models to predict landing success
 
-Tools & Tech: Python, Pandas, Scikit-learn, SQL, Plotly, Folium, Dash
+Tools & Tech
+
+Python · Pandas · Scikit-learn · SQL · Plotly · Folium · Dash
+
+Course Context
+
+Part of the IBM Data Science Professional Certificate (Coursera)
